@@ -48,6 +48,11 @@ th, td {
   line-height: 40px;
 }
 
+#reload {
+  text-align: center;
+  margin-top: 10px;
+}
+
 /* link */
 .link {
   margin: 0;
